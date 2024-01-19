@@ -1,0 +1,31 @@
+@import url(styles.css);
+
+:root {
+  --color-text: #333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+@font-face {
+  font-family: "bettergrade";
+  src: url("../fonts/BetterGrade-519DV.ttf");
+}
+
+@font-face {
+  font-family: "aovelsans";
+  src: url("../fonts/AovelSans-nXoO.ttf");
+}
+
+@font-face {
+  font-family: "aovelsansbold";
+  src: url("../fonts/AovelSansBold-RdPE.ttf");
+}
+
+@font-face {
+  font-family: "aovelsansblack";
+  src: url("../fonts/AovelSansBlack-1Zrv.ttf");
+}
